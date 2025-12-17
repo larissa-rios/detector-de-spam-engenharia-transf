@@ -1,6 +1,6 @@
 # 📧 Detector de Spam - Engenharia Transformacional
 
-Projeto de Classificação Supervisionada (GRUPO RUBI) para identificar e-mails como **Spam** ou **Legítimo** automaticamente.
+Projeto de Classificação Supervisionada para identificar e-mails como **Spam** ou **Legítimo** automaticamente.
 
 ---
 
